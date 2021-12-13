@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://media1.giphy.com/media/U3ePc8qMw4zdRhPiF0/giphy.gif?cid=790b7611a49f0fc33c7589dbb801140639191cb775b9ca40&rid=giphy.gif&ct=s" width="200"/>
+  <img src="https://media2.giphy.com/media/FkyrbOlMCfyncOi0IC/giphy.gif?cid=790b76119cd0b893718c0cc05b87b1312112af00ee1133b0&rid=giphy.gif&ct=s" width="200"/>
 
 </p>
 
