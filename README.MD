@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://idanke.mysoft.jce.ac.il/Assests/Elad_David_CV.pdf">Elad</a></b>.
-    <br>I am a 4th year Software Engineering student. Self-learning ability, striving for constant excellence, responsible, with high social skills and high abilities in teamwork. .<br>
+    Hello there! I'm Elad.
+    <br>I am a 4th year Software Engineering student. Self-learning ability, striving for constant excellence, responsible, with high social skills and high abilities in teamwork. <br>
 
 </samp>
 
@@ -19,12 +19,16 @@
 
 <img src="https://media2.giphy.com/media/nWkpuogjIzfzdxarRW/giphy.gif?cid=790b76112735a7cf413994e0177c9c6e113bf638feeacc3f&rid=giphy.gif&ct=s" width="200"/>
  
-  <br>I'm a passionate software develeoper , and I find interest in  new challanges .<br>
-   Simulation of physical processes , scientific programming , artistic creative coding [Lorenz Attractor , Fractals ]
- <br> for impression of my current and past projects , you are welcome to browse my repository 
+  <br>I'm a passionate Software Engineer. I find interest in new challanges.<br>
+ For impression of my current and past SW projects, you are welcome to browse my repositories.
  
 
-Current Project: <a href="https://github.com/EladDavid-SW/Front-end-project">Front-end-project.</a>
+Current Project: Web system development for Israel Museum, full-stack project.<br />
+The project is implemented in collaboration with my partner Israel Bar.<br />
+  Innovative technology using: NodeJS, React, MySQL.<br /> Find the updated project here:  
+   <a href="https://github.com/yisrael35/rest_imj">Backend</a>
+     <a href="https://github.com/yisrael35/react_imj">Frontend</a>
+
 
 <p align="center">
   <a rel="https://www.linkedin.com/in/elad-david-sw" target="_blank" href="https://www.linkedin.com/in/elad-david-sw">
@@ -35,7 +39,7 @@ Current Project: <a href="https://github.com/EladDavid-SW/Front-end-project">Fro
   <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
-  <a rel="https://api.whatsapp.com/send?phone=0528642364" target="_blank" href="https://api.whatsapp.com/send?phone=0528642364">
+  <a rel="https://api.whatsapp.com/send?phone=0528642364" target="_blank" href="https://api.whatsapp.com/send?phone=+972528642364">
   <img src="https://1.bp.blogspot.com/-PM8_Rig8V0M/XxFkv-2f3hI/AAAAAAAACSU/vB1BqbuhFCMyJ8OGCVstFiMLFmavCLqrwCPcBGAYYCw/s400/whatsapp-logo-1.png" width="23px" alt="Secret"></a>
 </p> 
 
