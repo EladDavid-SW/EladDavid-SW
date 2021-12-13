@@ -17,7 +17,7 @@
 <samp>
  <b><h2 style="color: #fc6203">A B O U T &nbsp;M E</h2> </b>
 
-<img src="https://media3.giphy.com/media/ixzAG6ndhFIw5mS8LL/giphy.gif?cid=790b7611a55cbda791f900d1a41b652dad2e8d44622a1a92&rid=giphy.gif&ct=s" width="200"/>
+<img src="https://media2.giphy.com/media/nWkpuogjIzfzdxarRW/giphy.gif?cid=790b76112735a7cf413994e0177c9c6e113bf638feeacc3f&rid=giphy.gif&ct=s" width="200"/>
  
   <br>I'm a passionate software develeoper , and I find interest in  new challanges .<br>
    Simulation of physical processes , scientific programming , artistic creative coding [Lorenz Attractor , Fractals ]
