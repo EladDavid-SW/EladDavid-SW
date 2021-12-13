@@ -26,20 +26,20 @@
 Current Project: Web system development for Israel Museum, full-stack project.<br />
 The project is implemented in collaboration with my partner Israel Bar.<br />
   Innovative technology using: NodeJS, React, MySQL.<br /> Find the updated project here:  
-   <a href="https://github.com/yisrael35/rest_imj">Backend</a>
-     <a href="https://github.com/yisrael35/react_imj">Frontend</a>
+   <a href="https://github.com/yisrael35/rest_imj" target="_blank">Backend</a>
+     <a href="https://github.com/yisrael35/react_imj" target="_blank">Frontend</a>
 
 
 <p align="center">
-  <a rel="https://www.linkedin.com/in/elad-david-sw" target="_blank" href="https://www.linkedin.com/in/elad-david-sw">
+  <a rel="https://www.linkedin.com/in/elad-david-sw" target="_blank" href="https://www.linkedin.com/in/elad-david-sw" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
-  <a rel="mailto:elad.david5@gmail.com" target="_blank" href="mailto:elad.david5@gmail.com">
+  <a rel="mailto:elad.david5@gmail.com" target="_blank" href="mailto:elad.david5@gmail.com" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
-  <a rel="https://api.whatsapp.com/send?phone=0528642364" target="_blank" href="https://api.whatsapp.com/send?phone=+972528642364">
+  <a rel="https://api.whatsapp.com/send?phone=0528642364" target="_blank" href="https://api.whatsapp.com/send?phone=+972528642364" target="_blank">
   <img src="https://1.bp.blogspot.com/-PM8_Rig8V0M/XxFkv-2f3hI/AAAAAAAACSU/vB1BqbuhFCMyJ8OGCVstFiMLFmavCLqrwCPcBGAYYCw/s400/whatsapp-logo-1.png" width="23px" alt="Secret"></a>
 </p> 
 
