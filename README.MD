@@ -31,7 +31,7 @@ Current Project: <a href="https://github.com/idankelman/Typing_Website">Typing W
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
-  <a rel="mailto:kelmanidan@gmail.com" target="_blank" href="mailto:kelmanidan@gmail.com">
+  <a rel="mailto:elad.david5@gmail.com" target="_blank" href="mailto:elad.david5@gmail.com">
   <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
