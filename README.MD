@@ -24,7 +24,7 @@
  <br> for impression of my current and past projects , you are welcome to browse my repository 
  
 
-Current Project: <a href="https://github.com/idankelman/Typing_Website">Typing Wbsite For Programmers.</a>
+Current Project: <a href="https://github.com/EladDavid-SW/Front-end-project">Front-end-project.</a>
 
 <p align="center">
   <a rel="https://www.linkedin.com/in/elad-david-sw" target="_blank" href="https://www.linkedin.com/in/elad-david-sw">
