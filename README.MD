@@ -24,7 +24,7 @@
  
 
 Current Project: Web system development for Israel Museum, full-stack project.<br />
-The project is implemented in collaboration with my partner Israel Bar.<br />
+The project is implemented in collaboration with my partner Yisrael Bar.<br />
   Innovative technology using: NodeJS, React, MySQL.<br /> Find the updated project here:  
    <a href="https://github.com/yisrael35/rest_imj" target="_blank">Backend</a>
      <a href="https://github.com/yisrael35/react_imj" target="_blank">Frontend</a>
