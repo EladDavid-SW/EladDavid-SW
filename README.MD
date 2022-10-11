@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm Elad.
-    <br>I am a Software Engineer. Self-learning ability, striving for constant excellence, responsible, with high social skills and high abilities in teamwork. <br>
+    <br>I'm a Software Engineer. Self-learning ability, striving for constant excellence, responsible, with high social skills and high abilities in teamwork. <br>
 
 </samp>
 
